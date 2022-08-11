@@ -1,0 +1,42 @@
+.order{
+    margin:4rem auto;
+    text-align: center;
+    color:black;
+    font-weight: bold;
+
+}
+.actions {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .actions button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    background-color: 
+    #ff007f;
+    color: white;
+    border: 1px solid 
+    #ff007f;
+  }
+  
+  .actions button:hover {
+    background-color: #ff82c0;
+    border-color: #ff82c0;
+  }
+  
+  .actions .toggle {
+    margin-top: 1rem;
+    background-color: transparent;
+    color: #ffa6d2;
+    border: none;
+    padding: 0.15rem 1.5rem;
+  }
+  
+  .actions .toggle:hover {
+    background-color: transparent;
+    color: #ffa6d2}
